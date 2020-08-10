@@ -44,6 +44,7 @@ list-style-type: none;
 .footer {
   background: rgb(242, 242, 242); 
   flex-shrink: 0; 
+  display: flex;
 }
 
 .footer-nav-left { 
