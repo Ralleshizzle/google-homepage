@@ -1,10 +1,10 @@
 .body {
-display: flex; 
-flex-direction: column;
-height: 200%; 
-margin: 0; 
-padding: 0;
-background-color: red;
+  display: flex; 
+  flex-direction: column;
+  height: 200%; 
+  margin: 0; 
+  padding: 0;
+  background-color: red;
 }
 
 .brugerinfo-nav { 
@@ -16,8 +16,8 @@ background-color: red;
 }
 
 .brugerinfo-gmail-link-nav { 
-margin-left: 20px;
-list-style-type: none;
+  margin-left: 20px;
+  list-style-type: none;
 }
 
 .link-billeder-nav {
@@ -38,7 +38,6 @@ list-style-type: none;
   flex: 1 0 auto; 
   margin-top: auto;
 }
-
 
 .footer {
   background: rgb(242, 242, 242);  
